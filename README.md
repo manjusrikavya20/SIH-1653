@@ -76,7 +76,7 @@ The DRDO AI system refines its models for better future evaluations.
 
 ## Proposed Solution / Architecture Diagram
 
-![image](https://github.com/user-attachments/assets/43c25a80-6295-40eb-aefb-0bada8e43650)
+![image](https://github.com/user-attachments/assets/31bd314e-af84-4aa1-a6de-d58519773c19)
 
 ## Use Cases
 
